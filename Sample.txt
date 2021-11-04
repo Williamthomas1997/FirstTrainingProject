@@ -7,6 +7,9 @@ Six
 Seven
 Eight
 Nine
+10
+11
+12
 Ten
 Eleven
 Twelve
